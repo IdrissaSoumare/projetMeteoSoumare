@@ -1,0 +1,22 @@
+body{
+    background: radial-gradient(ellipse at center, #122384,#000430); 
+}
+
+#container{
+    background-color: #000430;
+    box-shadow: 0px 0px 50px 25px rgba(251,194,34,0.65);
+    border: 2px solid #2a3cad;
+}
+
+#hour{
+    color: #bfbfbf;
+}
+
+#location h5{
+    color: #bfbfbf;
+}
+
+#container span:before
+{
+    background: #50dfdb;
+}
